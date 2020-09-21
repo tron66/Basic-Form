@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #222;
+}
+.form{
+  width: 100%;
+}
+.wrapper{
+  width: 1000px;
+  background-color: #eee;
+  margin: 0 auto;
+}
+.form-web input[type=text]{
+  padding: 10px 10px;
+  margin-top: 10px;
+  width:30%;
+  margin-left: 10px;
+  border: 1px;
+  border-color: #ccc;
+  border-style: solid;
+  font-family: arial;
+  color: #282828;
+}
+.form-web input[type=radio]{
+  padding: 0px 10px;
+  margin: 10px;
+}
+textarea{
+  resize: none;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-family: arial;
+  color: #282828;
+  padding: 6px 0.5%;
+}
+/* NOTE: button */
+button{
+  text-transform: uppercase;
+  color: #fff;
+  background-color: green;
+  margin: 10px 10px;.
+  padding: 0px 90px;
+  width: 120px;
+  height: 40px;
+  border: none;
+}
+p{
+  display: inline-block;
+}
+/* NOTE: trial.html file */
+.form-web input[type=email]{
+  padding: 10px 10px;
+  margin-top: 10px;
+  width:30%;
+  margin-left: 10px;
+  border: 1px;
+  border-color: #ccc;
+  border-style: solid;
+  font-family: arial;
+  color: #282828;
+}
